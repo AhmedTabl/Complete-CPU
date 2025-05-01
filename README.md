@@ -1,5 +1,5 @@
 # Complete-CPU
-COE608 Lab 6 – Complete VHDL CPU Implementation
+COE608 Lab 6 – Complete VHDL CPU Implementation.
 This project was completed as the final lab for the COE608: Computer Organization and Architecture course at Toronto Metropolitan University. The goal was to design and simulate a fully functional CPU by integrating the datapath, control unit, and a custom reset circuit, all written in VHDL.
 
 # Features
